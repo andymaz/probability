@@ -11,3 +11,10 @@
     font-weight: normal;
     color: blue;
 }
+
+.home {
+    font-size: 14px;
+    color: blue;
+    text-align: left;
+    margin-bottom: 15px;
+}
