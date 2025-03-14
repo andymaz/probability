@@ -1,0 +1,13 @@
+.title {
+    margin-left: 10px;
+    font-size: 24px;
+    font-weight: bold;
+    color: red;
+}
+
+.author {
+    margin-left: 10px;
+    font-size: 16px;
+    font-weight: normal;
+    color: blue;
+}
